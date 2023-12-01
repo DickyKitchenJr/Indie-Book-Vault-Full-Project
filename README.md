@@ -10,6 +10,11 @@
 - Express.js
 - MySQL
 
+## Achievements
+- implemented a dynamic author listing feature using the Fisher-Yates shuffle algorithm, ensuring a randomized display for users on every site visit
+- implemented server side and form side validation to ensure the user submits the information appropriately and without duplication in the database
+- demonstrated proficiency in MySQL database management, optimizing queries and operations for efficient data storage and retrieval
+
 ## Front-end User-facing Repository
 - [https://github.com/DickyKitchenJr/indie-book-vault]
 
