@@ -15,8 +15,11 @@
 - implemented server side and form side validation to ensure the user submits the information appropriately and without duplication in the database
 - demonstrated proficiency in MySQL database management, optimizing queries and operations for efficient data storage and retrieval
 
-## Front-end User-facing Repository
+## Front-end Live Site Repository
 - [https://github.com/DickyKitchenJr/indie-book-vault]
+
+## Front-end Admin Repository
+- [https://github.com/DickyKitchenJr/ibv-admin-frontend]
 
 ## Backend Repository 
 - [https://github.com/DickyKitchenJr/ibv-backend]
